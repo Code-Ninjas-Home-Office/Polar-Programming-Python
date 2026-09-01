@@ -1,0 +1,24 @@
+{
+    "name": "polar-programming-python-tree-jae-test",
+    "dependencies": {
+        "device": "*",
+        "polar-programming-python": "github:code-ninjas-home-office/polar-programming-python"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.17",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
