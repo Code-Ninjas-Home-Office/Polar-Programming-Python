@@ -1,6 +1,6 @@
 # Polar Programming with Python: Day 1
 ### @diffs true
-
+ 
 ```python
 scene.set_background_image(img("""..."""))
 
