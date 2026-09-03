@@ -1,6 +1,6 @@
 # Polar Programming with Python: Day 3 
 ### @diffs true
-
+ 
 ```python
 #tilemap setup
 scene.set_background_color(9)
