@@ -1,6 +1,6 @@
 # Polar Programming with Python: Day 4
 ### @diffs true
-
+ 
 ```python
 # game initialization
 scene.set_background_image(img("""..."""))
